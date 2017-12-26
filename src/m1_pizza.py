@@ -187,7 +187,7 @@ def run_test_draw_points_on_circle():
     # Test 4:  (YOU write THIS test)
     # ------------------------------------------------------------------
 
-    # Test 3:
+    # Test 4:
     title = 'Challenge excepted .'
     window = rg.RoseWindow(400, 400, title)
     circle = rg.Circle(rg.Point(200, 200), 200)
